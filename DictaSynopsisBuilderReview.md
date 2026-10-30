@@ -111,6 +111,6 @@ During the testing process, Dicta aligned words with different punctuation, such
 
 Some alignment issues were observed.  In the typescript, the phrase “6 time losers” was not completely aligned with the corresponding versions (“six-time losers”)  in the manuscript and printed versions. Moreover, although the missing final four verses in the typescript were generally classified as Gaps, the final word, “theatres,” was incorrectly aligned with “the” in the last verse of the other witnesses and classified as a Major variation. Two other rows within this gap were also classified as Minor differences, suggesting inconsistencies in the alignment and classification of missing text. Enabling ‘Group Words’ and ‘Allow Outliers’ did not substantially resolve this.
 
-![Screenshot of the results achieved with Dicta Synopsis Builder.][./dicta_screenshot.png]
+![Screenshot of the results achieved with Dicta Synopsis Builder.](/dicta_screenshot.png)
 
 At line 64, the background of the cell related to the typescript is highlighted in green. However, we were unable to determine the meaning of this colour or its relationship to the alignment issues observed. In particular, the word “theatres” in the typescript is aligned with “the” in the final verse of the manuscript and printed version, even though this verse is absent from the typescript. The significance of the green highlighting in this context therefore remains unclear. The same alignment issue persists in the ‘Snake Rows’ output. 
